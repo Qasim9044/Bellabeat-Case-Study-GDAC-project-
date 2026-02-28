@@ -163,5 +163,11 @@ The goal is to present findings clearly in order to support strategic decision-m
 
 ---
 
+## SQL Queries
+
+All SQL queries used for data cleaning and analysis can be found here:
+
+[View SQL Script](sql/bellabeat_analysis.sql)
+
 
 
