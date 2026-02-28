@@ -118,20 +118,20 @@ The goal is to present findings clearly in order to support strategic decision-m
 ### Visualizations
 
 #### 1. Average Daily Steps Among Users
-![Average Daily Steps](visuals-avg_daily_steps.png)  
+![Average Daily Steps](visuals/visuals-avg_daily_steps.png)  
 > Shows general activity trends across all users.
 
 
 
 
 #### 2. Distribution of User Activity Levels
-![Activity Level Distribution](visuals-activity_distribution)  
+![Activity Level Distribution](visuals/visuals-activity_distribution.png)  
 > Highlights the spread of sedentary, low, moderate, and active days.
 
 
 
 #### 3. Relationship Between Daily Steps and Sleep Duration
-![Activity vs Sleep](visuals-steps_vs_sleep)  
+![Activity vs Sleep](visuals/visuals-steps_vs_sleep.png)  
 > Demonstrates correlation between activity levels and sleep tracking engagement.
 
 
